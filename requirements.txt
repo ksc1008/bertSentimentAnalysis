@@ -1,0 +1,4 @@
+jsonlines~=4.0.0
+pandas~=2.0.3
+seaborn~=0.12.2
+soynlp~=0.0.493
